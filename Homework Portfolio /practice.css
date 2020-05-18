@@ -1,0 +1,32 @@
+body {font-family: Arial, Helvetica, sans-serif;background-color: rgb(214, 218, 218);}
+.navbar-brand{
+  font-size: xx-large;
+  font-weight: bold;
+  padding: 5px;
+}
+.Name{
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(13, 209, 209);
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: bolder;
+}
+.container {
+      background-color: #f2f2f2;
+      color: rgb(13, 209, 209);
+      margin-bottom: 40px;
+      font-family: 'Yantramanav', sans-serif;
+    }
+    .top-right {
+        position: absolute;
+        left: 3.5;
+        bottom: 20px;
+        background: rgb(0,0,0);
+        background: rgba(29, 230, 213, 0.616);
+        color: #f1f1f1;
+        font-size: 30px;
+        width: 95%;
+        padding: 15px;
+    }
+    * {box-sizing: border-box;
+
