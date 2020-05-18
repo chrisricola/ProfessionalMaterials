@@ -1,1 +1,3 @@
 # ProfessionalMaterials
+
+With this assigment I updated my portfolio and linkedIn page. I am not that confident in my Homework assigments that were submitted. I only added the group project to the portfolio page because that is the only assigment I am proud of. With time I am going back thru the homework assignment and making improvements. I want to add some unique touch to the assigments. As I continue thru out the cousre I will be modifying the portfolio and using the tools that I will learn. 
